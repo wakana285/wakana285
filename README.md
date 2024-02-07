@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 <!--
 **wakana285/wakana285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=wakana285&show_icons=true&locale=en&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,prisma,express,fastapi,py,vscode,docker&perline=4)](https://skillicons.dev)
