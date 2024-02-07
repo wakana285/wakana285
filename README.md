@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##I'm studying
+## I'm studying
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,react,next,express,prisma,mysql,postgresql,docker&perline=5)](https://skillicons.dev)
