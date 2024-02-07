@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## I'm studying
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,react,next,express,prisma,mysql,postgresql,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,react,next,express,prisma,mysql,postgresql,docker&perline=7)](https://skillicons.dev)
