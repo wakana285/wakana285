@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=wakana285&show_icons=true&locale=en&layout=compact)
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,prisma,express,fastapi,py,vscode,docker&perline=4)](https://skillicons.dev)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,express,prisma,fastapi," /> <br /><br />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode" /> <br /><br />
