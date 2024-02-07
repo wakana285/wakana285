@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=react,next,express,prisma,fastapi," /> <br /><br />
 
+## DB and Dev Tools etc
+
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode" /> <br /><br />
